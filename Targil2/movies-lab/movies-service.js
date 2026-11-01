@@ -1,0 +1,1 @@
+export const getTitles = movies => movies.map(movie => movie.title);
