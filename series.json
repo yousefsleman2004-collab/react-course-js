@@ -1,0 +1,105 @@
+{
+  "platform": "SeriesHub",
+  "series": [
+    {
+      "id": 1,
+      "title": "Haifa Nights",
+      "genre": "Drama",
+      "startYear": 2019,
+      "ended": true,
+      "creator": { "name": "Maya Levi", "country": "Israel" },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            { "id": 101, "title": "The Port", "rating": 8.1, "duration": 45 },
+            { "id": 102, "title": "Old Friends", "rating": 8.4, "duration": 47 },
+            { "id": 103, "title": "Storm", "rating": 9.0, "duration": 50 }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            { "id": 201, "title": "Return", "rating": 8.7, "duration": 46 },
+            { "id": 202, "title": "Secrets", "rating": 8.9, "duration": 48 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Space Kitchen",
+      "genre": "Comedy",
+      "startYear": 2021,
+      "ended": false,
+      "creator": { "name": "Leo Grant", "country": "UK" },
+      "nextSeason": { "year": 2027 },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            { "id": 301, "title": "Zero Gravity Soup", "rating": 7.5, "duration": 25 },
+            { "id": 302, "title": "Moon Pie", "rating": 7.9, "duration": 24 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Code Red",
+      "genre": "Thriller",
+      "startYear": 2020,
+      "ended": true,
+      "creator": { "name": "Noam Shalev", "country": "Israel" },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            { "id": 401, "title": "Breach", "rating": 8.8, "duration": 52 },
+            { "id": 402, "title": "Firewall", "rating": 8.2, "duration": 50 },
+            { "id": 403, "title": "Zero Day", "rating": 9.3, "duration": 55 }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            { "id": 501, "title": "Backdoor", "rating": 8.0, "duration": 51 }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            { "id": 601, "title": "Shutdown", "rating": 8.6, "duration": 53 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Last Library",
+      "genre": "Drama",
+      "startYear": 2023,
+      "ended": false,
+      "creator": { "name": "Sara Klein", "country": "Germany" },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            { "id": 701, "title": "Dust", "rating": 8.3, "duration": 40 },
+            { "id": 702, "title": "Pages", "rating": 8.5, "duration": 42 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Desert Signal",
+      "genre": "Sci-Fi",
+      "startYear": 2027,
+      "ended": false,
+      "creator": { "name": "Omar Haddad", "country": "Jordan" },
+      "nextSeason": { "year": 2027 },
+      "seasons": []
+    }
+  ]
+}
